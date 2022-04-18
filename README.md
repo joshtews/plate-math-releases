@@ -22,6 +22,8 @@ dark/light mode available in the settings
 ![20220416_214848-COLLAGE](https://user-images.githubusercontent.com/10394536/163696861-286b682c-4649-478f-802a-8e8a83e7dc81.jpg)
 ### Plan your workout by loading your program(PDF) or writing down a plan :
 ![20220416_214911-COLLAGE](https://user-images.githubusercontent.com/10394536/163696863-d9b16b14-f58c-42ac-a2c4-b9f9ff8ea6ca.jpg)
+### Use the Context Calculations to calculate directly from your program
+![20220418_184341-COLLAGE](https://user-images.githubusercontent.com/10394536/163889810-a76b9b53-724b-4602-8ab0-61299f240673.jpg)
 ### Easily convert Between Kilos and Pounds and Change many settings like what weights you have available:
 ![20220416_214947-COLLAGE](https://user-images.githubusercontent.com/10394536/163696896-403ae34a-1eda-41e1-a9c2-7915c6826f46.jpg)
 
